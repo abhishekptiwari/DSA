@@ -36,5 +36,5 @@ n == nums.length
 1 <= n <= 1000
 1 <= nums[i] <= 1000
 
+# Command = g++ -fdiagnostics-color=always -g Concatenation_Of_Array.cpp -o Concatenation_Of_Array
 
-# Command = g++ -fdiagnostics-color=always -g Build_Array_from_Permutation.cpp -o Build_Array_from_Permutation
